@@ -1,6 +1,6 @@
 ---
 - name: "Installing and running apache"
-  hosts: 192.168.64.2
+  hosts: localhost
 
   tasks:
   - name: "Install apache"
